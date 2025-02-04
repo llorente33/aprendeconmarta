@@ -101,6 +101,10 @@ nav a:hover {
     background-color: white;
 }
 
+.areyouready img {
+    background-color: black;
+}
+
 .areyouready article {
     text-align: justify;
     max-width: 600px;
